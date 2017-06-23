@@ -1,11 +1,11 @@
 # typescript-bootcamp<br /> 
 <br /> 
-```
+<pre>
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
 yyyysoooooooooooooooooooooooosyyyyyyyyyyyyyyyyyyyy <br />
-yyyyo                        /yyyyyyyyyyyyyyyyyyyy <br />
-yyyyo----------    ----------+yyyyyyyyyyyyyyyyyyyy <br />
+yyyyo                        |yyyyyyyyyyyyyyyyyyyy <br />
+yyyyo----------    ----------|yyyyyyyyyyyyyyyyyyyy <br />
 yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
 yyyyyyyyyyyyyyy    oyyyyyyyyyyso//:::://+syyyyyyyy <br />
 yyyyyyyyyyyyyyy    oyyyyyyy+-`            +yyyyyyy <br />
@@ -26,4 +26,4 @@ yyyyyyyyyyyyyyyyyyyyyyyyo`             `:syyyyyyyy <br />
 yyyyyyyyyyyyyyyyyyyyyyyyyyso+//::://+osyyyyyyyyyyy <br />
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
-```
+</pre>
