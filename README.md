@@ -1,29 +1,30 @@
 # typescript-bootcamp<br /> 
 <br /> 
 <pre>
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
-yyyysoooooooooooooooooooooooosyyyyyyyyyyyyyyyyyyyy <br />
-yyyyo                        |yyyyyyyyyyyyyyyyyyyy <br />
-yyyyo----------    ----------|yyyyyyyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyyyyyyso//:::://+syyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyyy+-`            +yyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyys.   -/+osssoo/:.+yyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyy`  `oyyyyyyyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyo   :yyyyyyyyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyys`  `oyyyyyyyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyo`   -+yyyyyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyys:`    ./oyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyyyyyo:.     -/syyyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyyyyyyyys+:`    -oyyyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyys/`   :yyyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyyyyy-   /yyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyyyyy+   :yyyyyy <br />
-yyyyyyyyyyyyyyy    oyyyysoyyyyyyyyyyyyy-   +yyyyyy <br />
-yyyyyyyyyyyyyyy::::syyyy+ `-/+osssso+:`   /yyyyyyy <br />
-yyyyyyyyyyyyyyyyyyyyyyyyo`             `:syyyyyyyy <br />
-yyyyyyyyyyyyyyyyyyyyyyyyyyso+//::://+osyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy <br />
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy 
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy 
+yyyysoooooooooooooooooooooooosyyyyyyyyyyyyyyyyyyyy
+yyyyo                        |yyyyyyyyyyyyyyyyyyyy
+yyyyo----------    ----------|yyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyyyyyyso//:::://+syyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyyy+-`            +yyyyyyy
+yyyyyyyyyyyyyyy    oyyyyys.   -/+osssoo/:.+yyyyyyy
+yyyyyyyyyyyyyyy    oyyyyy`  `oyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyo   :yyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyys`  `oyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyo`   -+yyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyys:`    ./oyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyyyyyo:.     -/syyyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyyyyyyyys+:`    -oyyyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyys/`   :yyyyyyy
+yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyyyyy-   /yyyyyy
+yyyyyyyyyyyyyyy    oyyyyyyyyyyyyyyyyyyy+   :yyyyyy
+yyyyyyyyyyyyyyy    oyyyysoyyyyyyyyyyyyy-   +yyyyyy
+yyyyyyyyyyyyyyy::::syyyy+ `-/+osssso+:`   /yyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyo`             `:syyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyso+//::://+osyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 </pre>
+
