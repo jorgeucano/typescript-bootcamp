@@ -108,3 +108,8 @@ interface NotOkay {
 }
 [ts] Numeric index type 'Animal' is not assignable to string index type 'Dog'.
 */
+
+
+let firulais = <Dog>{};
+firulais.name = 'Firulais';
+firulais.breed = 'BREEEEEED';
