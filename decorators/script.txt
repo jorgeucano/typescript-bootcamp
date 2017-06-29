@@ -1,0 +1,10 @@
+tsc --init
+genera 
+
+
+tsconfig.json
+
+poner coma despues de => "strict": true
+
+sacar comentario en => "experimentalDecorators": true,
+
